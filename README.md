@@ -300,7 +300,7 @@ First, verify your sample sizes by checking that the training set contains at le
 
 If you use this pipeline in your research, please cite our preprint:
 
-> Moon, U. D.; Roy, K. R. Multi-Omic Integration and Machine Learning Reveal Regulatory Networks Driving Breast Cancer Progression. *Preprints* **2025**, 2025120929. [https://doi.org/10.20944/preprints202512.0929.v1](https://doi.org/10.20944/preprints202512.0929.v1)
+> Moon, U. D.; Roy, K. R. Multi-Omic Integration and Machine Learning Reveal Regulatory Networks Driving Breast Cancer Progression. *Preprints* **2025**, 2025120929. [https://doi.org/10.20944/preprints202512.0929.v1](https://www.preprints.org/manuscript/202512.0929)
 
 **BibTeX Entry:**
 
