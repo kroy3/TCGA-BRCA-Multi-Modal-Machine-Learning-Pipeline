@@ -298,20 +298,20 @@ First, verify your sample sizes by checking that the training set contains at le
 
 ## 📚 Citation
 
-If you use this pipeline in your research, please cite our preprint:
+If you use this code or derived figures in academic work, please cite:
 
-> Moon, U. D.; Roy, K. R. Multi-Omic Integration and Machine Learning Reveal Regulatory Networks Driving Breast Cancer Progression. *Preprints* **2025**, 2025120929. [https://doi.org/10.20944/preprints202512.0929.v1](https://www.preprints.org/manuscript/202512.0929)
+Roy, K. R. (2025). *View-specific preprocessing for multi-modal integration improves breast cancer progression prediction: a machine learning analysis of TCGA-BRCA.* SSRN. https://doi.org/10.2139/ssrn.5876162
 
-**BibTeX Entry:**
+### BibTeX
 
 ```bibtex
-@article{moon2025multiomic,
-  title={Multi-Omic Integration and Machine Learning Reveal Regulatory Networks Driving Breast Cancer Progression},
-  author={Moon, U. D. and Roy, K. R.},
-  journal={Preprints},
-  year={2025},
-  volume={2025120929},
-  doi={10.20944/preprints202512.0929.v1}
+@article{roy2025view,
+  author  = {Roy, Kushal Raj},
+  title   = {View-specific preprocessing for multi-modal integration improves breast cancer progression prediction: a machine learning analysis of TCGA-BRCA},
+  year    = {2025},
+  journal = {SSRN Electronic Journal},
+  doi     = {10.2139/ssrn.5876162},
+  url     = {https://doi.org/10.2139/ssrn.5876162}
 }
 ```
 
